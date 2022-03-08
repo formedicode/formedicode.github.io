@@ -1,3 +1,6 @@
+---
+layout : single
+title : 'Decision Tree model 실습예제'
 ```python
 import pandas as pd
 
